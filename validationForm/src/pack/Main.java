@@ -1,8 +1,12 @@
 package pack;
 
+import exception.IllegalLogin;
+
 public class Main {
     public static void main(String[] args) {
-        Controller controller = new Controller(new Model(), new View());
+        Model model = new Model();
+        View view = new View();
+        Controller controller = new Controller(model, view);
         controller.startProgram();
 
     }

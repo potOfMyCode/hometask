@@ -39,13 +39,24 @@ public class View {
         ));
     }
 
-    public void noteCheck(String firstname, String lastname, String login, String password){
+    public void noteCheck(Notebook notebook){
         printMessage(concatencate(
-                "Your information:", "\n",
-                firstname, "\n",
-                lastname, "\n",
-                login, "\n",
-                password
+                notebook.getRecordsList().toString()
+//                "Your information:", "\n",
+//                firstname, "\n",
+//                lastname, "\n",
+//                login, "\n",
+//                password
         ));
+    }
+
+    public void registerUser(){
+        System.out.println("Do you want to register another user?\n" +
+                "if no then print \"no\"" + ", in another case print something and then create new user.");
+
+    }
+
+    public void repeatLogin(){
+        System.out.println("Sorry, such login have been used another user. Please try again!");
     }
 }
