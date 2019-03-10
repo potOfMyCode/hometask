@@ -1,5 +1,0 @@
-hello!;
-hello other!;
-new string1;
-new string2;
-new string3;
