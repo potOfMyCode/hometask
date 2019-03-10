@@ -1,2 +1,2 @@
-hello!
-hello other!
+hello!;
+hello other!;
