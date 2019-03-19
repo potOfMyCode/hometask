@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d91b836a-ebee-48e4-8d56-d35ac9ee89f6" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stream/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../stream/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../stream/src/pack/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/../stream/src/pack/Main.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../validationForm/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../validationForm/.idea/workspace.xml" afterDir="false" />
@@ -32,7 +33,7 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/adapter/AdapterApp.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="255">
@@ -52,6 +53,31 @@
                 <element signature="e#700#701#0" expanded="true" />
                 <element signature="e#731#732#0" expanded="true" />
                 <element signature="e#765#766#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/decorator/DecoratorApp.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+              <folding>
+                <element signature="e#244#245#0" expanded="true" />
+                <element signature="e#277#278#0" expanded="true" />
+                <element signature="e#305#306#0" expanded="true" />
+                <element signature="e#341#342#0" expanded="true" />
+                <element signature="e#730#731#0" expanded="true" />
+                <element signature="e#765#766#0" expanded="true" />
+                <element signature="e#789#790#0" expanded="true" />
+                <element signature="e#813#814#0" expanded="true" />
+                <element signature="e#589#590#0" expanded="true" />
+                <element signature="e#626#627#0" expanded="true" />
+                <element signature="e#1135#1136#0" expanded="true" />
+                <element signature="e#1167#1168#0" expanded="true" />
+                <element signature="e#1298#1299#0" expanded="true" />
+                <element signature="e#1340#1341#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -79,6 +105,7 @@
         <option value="$PROJECT_DIR$/src/composite/Composite.java" />
         <option value="$PROJECT_DIR$/src/composite/CompositeApp.java" />
         <option value="$PROJECT_DIR$/src/adapter/AdapterApp.java" />
+        <option value="$PROJECT_DIR$/src/decorator/DecoratorApp.java" />
       </list>
     </option>
   </component>
@@ -115,7 +142,7 @@
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553000090413" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1553002256187" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
@@ -132,7 +159,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.AdapterApp">
+  <component name="RunManager" selected="Application.DecoratorApp">
     <configuration name="AbstractFactoryApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="abstractFactory.AbstractFactoryApp" />
       <module name="patterns" />
@@ -185,12 +212,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Delegate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="delegation.Delegate" />
+    <configuration name="DecoratorApp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="decorator.DecoratorApp" />
       <module name="patterns" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="delegation.*" />
+          <option name="PATTERN" value="decorator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -200,11 +227,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.DecoratorApp" />
         <item itemvalue="Application.AdapterApp" />
         <item itemvalue="Application.CompositeApp" />
         <item itemvalue="Application.Builder" />
         <item itemvalue="Application.AbstractFactoryApp" />
-        <item itemvalue="Application.Delegate" />
       </list>
     </recent_temporary>
   </component>
@@ -349,6 +376,29 @@
             <element signature="e#700#701#0" expanded="true" />
             <element signature="e#731#732#0" expanded="true" />
             <element signature="e#765#766#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/decorator/DecoratorApp.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="57" column="13" selection-start-line="57" selection-start-column="13" selection-end-line="57" selection-end-column="13" />
+          <folding>
+            <element signature="e#244#245#0" expanded="true" />
+            <element signature="e#277#278#0" expanded="true" />
+            <element signature="e#305#306#0" expanded="true" />
+            <element signature="e#341#342#0" expanded="true" />
+            <element signature="e#730#731#0" expanded="true" />
+            <element signature="e#765#766#0" expanded="true" />
+            <element signature="e#789#790#0" expanded="true" />
+            <element signature="e#813#814#0" expanded="true" />
+            <element signature="e#589#590#0" expanded="true" />
+            <element signature="e#626#627#0" expanded="true" />
+            <element signature="e#1135#1136#0" expanded="true" />
+            <element signature="e#1167#1168#0" expanded="true" />
+            <element signature="e#1298#1299#0" expanded="true" />
+            <element signature="e#1340#1341#0" expanded="true" />
           </folding>
         </state>
       </provider>
