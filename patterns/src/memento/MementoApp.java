@@ -9,7 +9,7 @@ public class MementoApp {
         File file = new File();
         file.setSave(game.save());
 
-        game.set("lvl1", 43000);
+        game.set("lvl2", 43000);
         System.out.println(game);
 
         game.load(file.getSave());
