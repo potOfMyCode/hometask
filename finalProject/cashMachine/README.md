@@ -38,8 +38,7 @@ Cashmachine
 <li>
     Use login "**kolyaHC1**" and password "**1234**" to log in with high cashier rights.
 <li>
-    Use login "**ivanPM1**" or "**katyaPM2**" and password "**1234**" to log in with productmaker rights.
-     
-1. ewew
-2. dasdsada
-3.fdsfzfds
+    Use login "**ivanPM1**" or "**katyaPM2**" and password "**1234**" to log in with productmaker rights.</li>
+    *dasdsada*
+    *dasdsadas*
+    *dadsa*
