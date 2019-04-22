@@ -17,6 +17,9 @@ Cashmachine
      Apache Tomcat 8.5.39 or higher
     
 ### Installation
+1.dsa
+2.das
+3.dasa
 <li>
      Clone project from GitHub (git clone https://github.com/potOfMyCode/hometask/tree/master/finalProject/cashMachine)
 <li>
@@ -39,6 +42,4 @@ Cashmachine
     Use login "**kolyaHC1**" and password "**1234**" to log in with high cashier rights.
 <li>
     Use login "**ivanPM1**" or "**katyaPM2**" and password "**1234**" to log in with productmaker rights.</li>
-    *dasdsada*
-    *dasdsadas*
-    *dadsa*
+
