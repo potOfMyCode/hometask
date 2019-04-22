@@ -17,29 +17,16 @@ Cashmachine
      Apache Tomcat 8.5.39 or higher
     
 ### Installation
-* rerewrwe
-- werrw 
-+ werw re
-<li>
-     Clone project from GitHub (git clone https://github.com/potOfMyCode/hometask/tree/master/finalProject/cashMachine)
-<li>
-     Specify values of "mysql.user" and "mysql.password" keys in *../src/main/resources/db.property*
-<li>
-     Execute script *../sql/finalproject.sql* to create database
-<li>
-     cd to root project folder and execute command *mvn clean install*
+* Clone project from GitHub (git clone https://github.com/potOfMyCode/hometask/tree/master/finalProject/cashMachine)
+* Specify values of "mysql.user" and "mysql.password" keys in *../src/main/resources/db.property*
+* Execute script _../sql/finalproject.sql_ to create database
+* cd to root project folder and execute command *mvn clean install*
     
 ### Running
-<li>
-    Start Tomcat server by running the script %TOMCAT%\bin\startup .bat for Windows or .sh for Unix based OS.
-<li>
-    After server start, application will be available by URL http://localhost:8080/cashmachine  
-<li>
-    Use login "**admin**" and password "**admin**" to log in with administrator rights.
-<li>
-    Use login "**dimaC1**" or "**vasyaC2**" or "**olyaC3**" and password "**1234**" to log in with cashier rights.
-<li>
-    Use login "**kolyaHC1**" and password "**1234**" to log in with high cashier rights.
-<li>
-    Use login "**ivanPM1**" or "**katyaPM2**" and password "**1234**" to log in with productmaker rights.</li>
+* Start Tomcat server by running the script %TOMCAT%\bin\startup .bat for Windows or .sh for Unix based OS.
+* After server start, application will be available by URL http://localhost:8080/cashmachine  
+* Use login "**admin**" and password "**admin**" to log in with administrator rights.
+* Use login "**dimaC1**" or "**vasyaC2**" or "**olyaC3**" and password "**1234**" to log in with cashier rights.
+* Use login "**kolyaHC1**" and password "**1234**" to log in with high cashier rights.
+* Use login "**ivanPM1**" or "**katyaPM2**" and password "**1234**" to log in with productmaker rights.</li>
 
