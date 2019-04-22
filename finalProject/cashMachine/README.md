@@ -17,7 +17,7 @@ Cashmachine
      Apache Tomcat 8.5.39 or higher
     
 ### Installation
-* Clone project from GitHub (git clone https://github.com/potOfMyCode/hometask/tree/master/finalProject/cashMachine)
+* Clone project from GitHub (git clone https://github.com/potOfMyCode/finalProject)
 * Specify values of "mysql.user" and "mysql.password" keys in *../src/main/resources/db.property*
 * Execute script _../sql/finalproject.sql_ to create database
 * cd to root project folder and execute command *mvn clean install*
