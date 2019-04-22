@@ -29,4 +29,4 @@ Cashmachine
 * Use login "**dimaC1**" or "**vasyaC2**" or "**olyaC3**" and password "**1234**" to log in with cashier rights.
 * Use login "**kolyaHC1**" and password "**1234**" to log in with high cashier rights.
 * Use login "**ivanPM1**" or "**katyaPM2**" and password "**1234**" to log in with productmaker rights.</li>
-
+* To stop server run script %TOMCAT%\bin\shutdown .bat for Windows or .sh for Unix based OS.
