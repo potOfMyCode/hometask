@@ -20,11 +20,11 @@ Cashmachine
 <li>
      Clone project from GitHub (git clone https://github.com/potOfMyCode/hometask/tree/master/finalProject/cashMachine)
 <li>
-     Specify values of "mysql.user" and "mysql.password" keys in ***../src/main/resources/db.property***
+     Specify values of "mysql.user" and "mysql.password" keys in *../src/main/resources/db.property*
 <li>
-     Execute script ***../sql/finalproject.sql*** to create database
+     Execute script *../sql/finalproject.sql* to create database
 <li>
-     cd to root project folder and execute command ***mvn clean install***
+     cd to root project folder and execute command *mvn clean install*
     
 ### Running
 <li>
