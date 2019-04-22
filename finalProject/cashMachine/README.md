@@ -8,15 +8,21 @@ Cashmachine
 указывать их кол-во на складе.
 ### Setup
 <li>
-    * JDK 1.8 or higher
-    * Apache Maven 3.6.1 or higher
-    * MySQL 8.0.15 or higher
-    * Apache Tomcat 8.5.39 or higher
-</li>
+     JDK 1.8 or higher
+<li>
+     Apache Maven 3.6.1 or higher
+<li>
+     MySQL 8.0.15 or higher
+<li>
+     Apache Tomcat 8.5.39 or higher
+    
 ### Installation
 <li>
-    * Clone project from GitHub (_git clone_ <https://github.com/potOfMyCode/hometask/tree/master/finalProject/cashMachine></https://github.com/potOfMyCode/hometask/tree/master/finalProject/cashMachine>)
-    * d
-    * d
-    * d
-</li>
+     Clone project from GitHub (git clone <https://github.com/potOfMyCode/hometask/tree/master/finalProject/cashMachine>)
+<li>
+     d
+<li>
+     d
+<li>
+     d
+
