@@ -18,7 +18,7 @@ Cashmachine
     
 ### Installation
 <li>
-     Clone project from GitHub (git clone <https://github.com/potOfMyCode/hometask/tree/master/finalProject/cashMachine>)
+     Clone project from GitHub (git clone (<https://github.com/potOfMyCode/hometask/tree/master/finalProject/cashMachine>))
 <li>
      d
 <li>
