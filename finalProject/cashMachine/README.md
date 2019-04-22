@@ -17,9 +17,9 @@ Cashmachine
      Apache Tomcat 8.5.39 or higher
     
 ### Installation
-1.dsa
-2.das
-3.dasa
+* rerewrwe
+- werrw 
++ werw re
 <li>
      Clone project from GitHub (git clone https://github.com/potOfMyCode/hometask/tree/master/finalProject/cashMachine)
 <li>
